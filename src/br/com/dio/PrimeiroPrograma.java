@@ -7,7 +7,7 @@ public class PrimeiroPrograma {
 	public static void main(String[] args) {
 		
 		Gato gato = new Gato();
-		Cachorro caozinho = new Cachorro();
+		Cachorro caozinho = new Cachorro();g
 		
 		System.out.println(gato);
 		System.out.println(caozinho);
