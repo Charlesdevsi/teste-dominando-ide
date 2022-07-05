@@ -16,7 +16,7 @@ public class PrimeiroPrograma {
 		
 		/*int a = 5;
 		int b = 15;
-		System.out.println("eu quero comer sua piriquita" + (a+b));*/
+		System.out.println("Good morning " + (a+b));*/
 		// TODO Auto-generated method stub
 
 	}
